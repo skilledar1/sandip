@@ -31,19 +31,19 @@
       "user_info": "Mike Johnson, mike.johnson@example.com"
     },
     {
-      "activated_device_uuid": "",
+      "activated_device_uuid": "88EC77F0-B9D6-432F-8976-B0103A5F7026",
       "status": "VALID",
-      "expiry_date": "2025-06-15 12:00:00",
+      "expiry_date": "2028-06-15 12:00:00",
       "user_info": "Mike Johnson, mike.johnson@example.com"
     },
     {
-      "activated_device_uuid": "",
+      "activated_device_uuid": "4D28894B-98F9-4E79-930B-55B70073E171",
       "status": "VALID",
-      "expiry_date": "2025-06-15 12:00:00",
+      "expiry_date": "2029-06-15 12:00:00",
       "user_info": "Mike Johnson, mike.johnson@example.com"
     },
     {
-      "activated_device_uuid": "",
+      "activated_device_uuid": "2C05A117-6389-4958-8A87-54A733981724",
       "status": "VALID",
       "expiry_date": "2025-06-15 12:00:00",
       "user_info": "Mike Johnson, mike.johnson@example.com"
